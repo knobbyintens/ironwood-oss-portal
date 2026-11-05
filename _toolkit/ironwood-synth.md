@@ -4,7 +4,7 @@ title: Ironwood Synth
 tagline: Controllable synthetic benchmark generation for lakehouse pipelines
 category: benchmarking
 status: development
-paper: Under review
+paper: DataOps Summit 2026
 docsurl: https://docs.ironwood.dev/synth
 ---
 
