@@ -3,10 +3,9 @@ layout: tool
 title: Ironwood Schema
 tagline: Versioned schema registry and compatibility tooling
 category: data-governance
-status: stable
+status: beta
 paper: none
 docsurl: https://docs.ironwood.dev/schema
-codeurl: https://github.com/knobbyintens/ironwood-toolkit/tree/main/ironwood-schema
 ---
 
 Ironwood Schema tracks table schema generations and validates backward,
